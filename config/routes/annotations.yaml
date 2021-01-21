@@ -1,0 +1,7 @@
+controllers:
+    resource: ../../src/Tasklist/Presentation/Controller/
+    type: annotation
+
+kernel:
+    resource: ../../src/Tasklist/Kernel.php
+    type: annotation
